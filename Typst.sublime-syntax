@@ -4,7 +4,7 @@
 # - https://typst.app/docs/reference/syntax
 
 file_extensions:
-  - typ
+  - typ/
 
 # Ad. Read Sublime Text docs in dark mode using the user style:
 # - https://userstyles.world/api/style/9109.user.css
